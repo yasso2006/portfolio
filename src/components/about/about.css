@@ -36,4 +36,8 @@
     .about_card{
         padding: 1rem;
     }
+    .about_cards{
+    display: block;
+    gap: 1.5rem;
+}
 }
