@@ -32,7 +32,7 @@ function Footer() {
         <a href="https://www.facebook.com/share/1HKpbjXgxv/" target="_blank"><FaFacebookF /></a>
         <a href="https://www.instagram.com/yassoawad_2006?igsh=MWk5MTZvb2sxMXV4MA==" target="_blank"><FaInstagram /></a>
         <a
-          href="https://www.linkedin.com/in/yassin-mohamed-360115348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+          href="https://www.linkedin.com/in/yassin-awad-360115348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           target="_blank"
         >
           <FaLinkedin />
