@@ -1,12 +1,14 @@
 .home {
-  height: 100vh;
+  min-height: 100dvh;
+  height: auto;
   padding-top: 80px;
   overflow: hidden;
+  position: relative;
 }
 
 .home-container {
   text-align: center;
-  height: 100%;
+  min-height: 100%;
   position: relative;
 }
 
@@ -32,7 +34,7 @@
 .scrol_down {
   position: absolute;
   right: -35px;
-  bottom: 0;
+  bottom: 30px;
   transform: rotate(90deg);
   font-weight: 300;
 }
@@ -58,17 +60,18 @@
 
 @media (max-width: 1024px) {
   .home {
-    height: 68hv;
+    height: auto;
+    min-height: 100dvh;
   }
 
   .home-container{
-    height: 50%;
+    min-height: 100%;
   }
 }
 
 @media (max-width: 600px) {
   .home {
-    height: auto;
+    min-height: 100svh;
   }
   .home_socials,
   .scrol_down {

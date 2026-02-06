@@ -17,7 +17,7 @@ function About() {
             <div className="about_card">
               <IoSchool className="about_icon" />
               <h5>Computer Engineer student at Alexandria University</h5>
-              <small>GPA 3.81</small>
+              <small>GPA 3.72</small>
             </div>
             <div className="about_card">
               <FaRobot className="about_icon" />
